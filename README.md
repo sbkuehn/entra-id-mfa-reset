@@ -60,7 +60,7 @@ Get-MgUserAuthenticationMethod -UserId user@domain.com
 - Admin rights in Microsoft Entra ID
 
 ## Author
-Shannon Kuehn  
+Shannon Eldridge-Kuehn  
 Date: 2025-09-24
 
 ## License
