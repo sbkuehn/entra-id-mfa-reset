@@ -1,0 +1,14 @@
+# Ignore common PowerShell and environment files
+*.psd1
+*.psm1
+*.pfx
+*.snk
+*.user
+*.suo
+*.vspscc
+*.vssscc
+*.vscode
+.env
+.idea
+.DS_Store
+Thumbs.db
